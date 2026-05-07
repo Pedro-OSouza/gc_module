@@ -1,7 +1,16 @@
-# Pastas de saída do Code::Blocks
+# Pastas de build
 bin/
 obj/
 
-# Arquivos de configuração do Code::Blocks
-*.layout
+# Arquivos do CodeBlocks
 *.depend
+*.layout
+
+# Executáveis
+*.exe
+*.out
+
+# Debug
+*.o
+*.a
+*.dll
