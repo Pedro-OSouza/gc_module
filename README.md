@@ -1,6 +1,6 @@
 # gc_module
 
-🇧🇷 PT-BR | 🇺🇸 EN
+[🇧🇷 PT-BR](#-português) | [🇺🇸 EN](#-english)
 
 ---
 
